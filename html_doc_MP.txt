@@ -1,0 +1,7 @@
+URL: https://www.geeksforgeeks.org/python-sys-module/
+Title: Python sys Module - GeeksforGeeks
+H1 Text: Python sys Module
+H2 Text: Related Articles
+HTML Size: 253370 bytes
+Response Code: 200
+Download Time: 0.191 seconds
